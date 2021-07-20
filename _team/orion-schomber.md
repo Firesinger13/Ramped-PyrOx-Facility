@@ -5,7 +5,8 @@ draft: false
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "PhD Student"
 linkedinurl: ""
-weight: 7
+promoted: true
+weight: 2
 layout: team
 ---
 

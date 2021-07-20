@@ -5,7 +5,8 @@ draft: false
 image: 'images/team/joseph-gonzalez-399972-unsplash.jpg'
 jobtitle: 'Masters Student'
 linkedinurl: ""
-weight: 3
+promoted: true
+weight: 2
 layout: team
 ---
 
