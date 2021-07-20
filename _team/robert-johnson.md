@@ -6,6 +6,7 @@ image: 'images/team/vince-fleming-613817-unsplash.jpg'
 jobtitle: 'PhD Candidate'
 linkedinurl: "https://www.linkedin.com/"
 weight: 3
+layout: team
 ---
 
 Theresa uses deepsea corals and the dirt burner for her research

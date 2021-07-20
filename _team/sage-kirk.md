@@ -7,6 +7,7 @@ jobtitle: "Laboratory Scientist"
 linkedinurl: "https://www.linkedin.com/example2"
 promoted: true
 weight: 2
+layout: team
 ---
 
 Devon is a good scientist

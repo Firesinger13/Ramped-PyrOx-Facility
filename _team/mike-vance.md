@@ -6,6 +6,7 @@ image: 'images/team/joseph-gonzalez-399972-unsplash.jpg'
 jobtitle: 'Masters Student'
 linkedinurl: ""
 weight: 3
+layout: team
 ---
 
 Tynisha took sediment samples from Mangrove swamps for her reasearch
