@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/DB-example2.pdf"
+intro_image: "images/illustrations/DB_example21024_1.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
