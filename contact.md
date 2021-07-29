@@ -3,7 +3,7 @@ title: Contact
 layout: contact
 ---
 
-For questions regarding sample preparation, treatment and handling, or the cost and time of analyses please contact Brad Rosenheim
+For questions regarding sample preparation, treatment and handling, or the cost and time of analyses please contact Dr. Rosenheim
 
 | Day       | Opening Hours   |
 | Monday    | 8:00am - 5:00pm |

@@ -5,48 +5,91 @@ layout: page
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## Ramped pyrolysis-oxidation (published alternatively as ramped pyrolysis, Ramped PyrOx, or RPO)
+14C dating is a preparation process that aims to separate organic carbon in terms of thermochemical stability 
+through the process of pyrolysis. The process results in multiple 14C dates for each sample, what is know 
+is an age spectrum. This process is useful in geochronology where geologists are interested in dating 
+organic matter in sediments, rocks, or dissolved in bodies of water. Such interest in dating organic matter
+usually evolves where there are no other easily identifiable targets for radiocarbon dating (macro- or 
+microfossils, specific compounds, etc.). This process has other applications outside of geochronology as 
+well.
 
-## Ne verba patulosque numen vix libet
+## Diversity and Equity
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+The RPO facility at USF-CMS prides itself in an inclusive atmosphere. We welcome and encourage use of 
+our facility by students from diverse backgrounds, especially those that are currently under-represented 
+in the Earth sciences. As such, all visiting scholars should expect to contribute and benefit from this 
+atmosphere in many ways.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Facilities Overview
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The Ramped Pyrolysis-Oxidation (RPO) 14C dating facility at the University of South Florida College of 
+Marine science is available for use by visiting scholars. The facility houses materials and apparatuses for 
+pretreatment of samples (freeze-driers, acid treatment manifolds, scales, and muffle furnaces) as well as 
+ancillary analysis (elemental analysis, stable isotope analysis). The RPO system itself consists of a flow 
+system (mass flow controllers, infrared gas analyzer), a furnace system (two tube furnaces with 
+independent temperature controllers, quartz reactor, and quartz sample inserts), and a vacuum 
+separations system (hybrid turbomolecular pump, capacitive diaphragm manometer), controlled partially 
+by LabVIEW graphical control system. Visiting scholars can generate purified CO2 from different 
+temperature intervals of their samples. Sealed in vacuo in borosilicate glass tubes, these CO2 samples can 
+be submitted to radiocarbon measurement facilities. 
 
-## Postquam tamen
+## Required Time for Visiting Scholars
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+It takes approximately one week to be trained to a point of semi-autonomy on the RPO system. Training 
+can be partially accomplished with samples and blanks that will ultimately comprise the scholar’s 
+research. Once trained, scholars can base desired time of residence on the capability to run two samples 
+per day. Scholars are also required to prepare one blank determination sample for each 10 unknown CO2
+samples that they generate, and to share those data with the laboratory once analyzed for 14C content. 
+This ensures the best up-to-date understanding of blank corrections necessary to interpret data from this 
+system. Additional time is required if the scholar plans to perform all sample pretreatment at USF-CMS, 
+including removal of carbon-bearing minerals from the sample. Notably, we cannot analyze acid-fumigated 
+samples from scholars who have performed sample pretreatment at their home institution as those samples 
+destroy our oxidation catalysts. Acid rinsing is necessary, and we can share our protocol with interested 
+parties. 
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+## Laboratory Costs and Expenses
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Costs for RPO can be divided into two categories: Consumables and analysis. Typically, visiting scholars 
+separate a single sample into five temperature intervals for unique 14C measurements. Radiocarbon analysis
+charges can vary from laboratory to laboratory. The samples we prepare have been handled well by the 
+National Ocean Sciences Accelerator Mass Spectrometer as they have had the most success in graphitizing 
+our samples. Their prices for 14C determination (https://www2.whoi.edu/site/nosams/client-services/fees/) or 
+those from an AMS laboratory of your choice, must be budgeted into your proposal. Dr. Rosenheim can discuss 
+options with you. Prior to visiting USF-CMS, students can opt to treat their samples for removal of minerals 
+bearing carbon. RPO dating targets organic matter. Often organic carbon and mineral carbon (e.g. CaCO3) are 
+present in the same sediment horizons, but are not necessarily concomitant in formation. Removal of minerals 
+such as CaCO3 is necessary to result in unambiguous organic carbon dates if the carbon-bearing minerals are 
+not coeval with the age of deposition. It is important that this is done by means other than acid 
+fumigation! Acid fumigation samples have disrupted the process of our catalysts for conversion of RPO 
+pyrolsates to CO2. We can share our Standard Operating Procedure if you choose to perform 
+demineralization in your own laboratory. Briefly, we weight each sample and calculate the amount of 10% 
+HCl required to neutralize the mass of sample assuming it was 100% CaCO3. This ensures acid in excess. 
+Samples are either rinsed on a filter or centrifuged until a neutral pH is approached, and ultimately stored 
+in a low-temperature (50⁰C) until their weight ceases to decrease from loss of water (generally 24 hours, 
+but variable depending on sediment type). Samples contain no added toxic ingredients after this 
+procedure and can likely be safely transported if they had no hazardous ingredients prior to this 
+treatment.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Laboratory Staff
+
+Visiting scholars will be tutored primarily by the laboratory technician. Generally, students in the CMS 
+program that work with RPO analysis will have a role in the tutelage of the visiting scholar if applicable. 
+This benefits in networking visiting scholars as well students matriculated at USF.
+
+## Data Processing
+
+Management and processing of the data involves the following steps:
+- Submission of samples to qualified radiocarbon analysis laboratory (t0)
+- Reporting of 14C results to submitter of samples. (t0 + 14-28 days, AMS laboratory-dependent)
+- Blank correction of 14C results, with help from USF-CMS RPO staff (+1 day)
+- Data visualization – PI Brad Rosenheim is available to discuss and help with data visualization of 
+RPO results after blank correction (+0.5 days).
+
+## Lead Time
+
+Generally, wait times to use the RPO facility are on the magnitude of one month. Between June and 
+October, wait times can increase due to preparation of samples during the summer and for the AGU Fall 
+Meeting, and, likewise, there is more internal student pressure on the facility during the summer months 
+(May-August). To propose work over the summer, it is best to contact Dr. Rosenheim early in the year to 
+plan for a visit.

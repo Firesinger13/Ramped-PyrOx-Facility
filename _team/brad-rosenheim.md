@@ -5,6 +5,7 @@ draft: false
 image: "images/team/P1050742_alt.jpg"
 jobtitle: "Associate Professor"
 linkedinurl: "https://www.linkedin.com/in/brad-rosenheim-a9325811"
+googscholarurl: "https://scholar.google.com/citations?user=F4p1OAkAAAAJ&hl=en"
 promoted: true
 weight: 1
 layout: team
