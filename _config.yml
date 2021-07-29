@@ -3,8 +3,8 @@ permalink: pretty
 title: 'Ramped PyrOx Facility'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
+  mobile: "images/logo/USF-CMSLetterhead-color.png"
+  desktop: "images/logo/USF-CMSLetterhead-color.png"
   desktop_height: "36px"
 
 collections:

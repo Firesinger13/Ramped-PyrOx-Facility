@@ -1,37 +1,48 @@
 ---
-title: "Tax Preperation"
+title: "Publications"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 6
 layout: service
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Lab members' names in bold
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+## 2021
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+## 2020
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+## 2019
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+## 2018
+
+## 2017
+
+## 2016
+
+## 2015
+
+## 2014
+
+## 2013
+
+## 2012
+
+## 2011
+
+## 2010
+
+## 2009
+
+## 2008
+
+Rosenheim, B. E., Day, M. B., Domack, E., Schrum, H., Benthien, A., and Hayes, J. M. (2008), Antarctic sediment chronology by programmed-temperature pyrolysis: Methodology and data treatment, Geochem. Geophys. Geosyst., 9, Q04005, [doi:10.1029/2007GC001816.](#doi:10.1029/2007GC001816)
+
 
 Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
 subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
 **mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
 quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
-
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
 
 Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
 mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
@@ -40,7 +51,3 @@ tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
 inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
 inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
 siccatque frondes.
-
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
