@@ -2,7 +2,7 @@
 title: "Brad E. Rosenheim (he, him, his)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/P1050742_alt.jpg"
+image: "images/team/Brad_profile.jpg"
 jobtitle: "Associate Professor"
 linkedinurl: "https://www.linkedin.com/in/brad-rosenheim-a9325811"
 googscholarurl: "https://scholar.google.com/citations?user=F4p1OAkAAAAJ&hl=en"
