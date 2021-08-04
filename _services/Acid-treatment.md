@@ -7,7 +7,7 @@ weight: 2
 
 Ramped PyrOx samples must be treated with acid to remove carbonate material
 
-![Acid Treatment](/images/services/acid_treatment.jpg)
+![Acid Treatment](/images/acid_treatment.jpg)
 
 # Why?
 

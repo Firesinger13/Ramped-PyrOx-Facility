@@ -14,7 +14,7 @@ Lab members' names in bold
 
 ## 2020
 
-**Venturelli, R. A.**, Siegfried, M. R., Roush, K. A., Li, W., Burnett, J., Zook, R., et al. (2020). Mid‐Holocene grounding line retreat and readvance at Whillans Ice Stream, West Antarctica. Geophysical Research Letters, 47, e2020GL088476. [https://doi.org/10.1029/2020GL088476] (#https://doi.org/10.1029/2020GL088476)
+**Venturelli, R. A.**, Siegfried, M. R., Roush, K. A., Li, W., Burnett, J., Zook, R., et al. (2020). Mid‐Holocene grounding line retreat and readvance at Whillans Ice Stream, West Antarctica. Geophysical Research Letters, 47, e2020GL088476. [https://doi.org/10.1029/2020GL088476](#https://doi.org/10.1029/2020GL088476)
 
 ## 2019
 
