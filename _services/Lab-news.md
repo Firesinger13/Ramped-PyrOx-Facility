@@ -7,3 +7,4 @@ weight: 5
 
 What is new in the lab!?
 
+![Lab News](/Ramped-PyrOx-Facility/images/Brad_canoe.JPG)
