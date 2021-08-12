@@ -124,4 +124,4 @@ Swart, P. K., Greer, L., **Rosenheim, B. E.**, Moses, C. S., Waite, A. J., Winte
 
 # 2008
 
-**Rosenheim, B. E.**, Day, M. B., Domack, E., Schrum, H., Benthien, A., and Hayes, J. M. (2008). Antarctic sediment chronology by programmed-temperature pyrolysis: Methodology and data treatment, Geochem. Geophys. Geosyst., 9, Q04005. [doi:10.1029/2007GC001816](doi:10.1029/2007GC001816)
+**Rosenheim, B. E.**, Day, M. B., Domack, E., Schrum, H., Benthien, A., and Hayes, J. M. (2008). Antarctic sediment chronology by programmed-temperature pyrolysis: Methodology and data treatment, Geochem. Geophys. Geosyst., 9, Q04005. [doi:10.1029/2007GC001816](https://doi.org/10.1029/2007GC001816)
