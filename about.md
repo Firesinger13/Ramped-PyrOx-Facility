@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 ## Ramped pyrolysis-oxidation (published alternatively as ramped pyrolysis, Ramped PyrOx, or RPO)
-<sup>14</sup>C dating is a preparation process that aims to separate organic carbon in terms of thermochemical stability through the process of pyrolysis. The process results in multiple 14C dates for each sample, what is know is an age spectrum. This process is useful in geochronology where geologists are interested in dating organic matter in sediments, rocks, or dissolved in bodies of water. Such interest in dating organic matter usually evolves where there are no other easily identifiable targets for radiocarbon dating (macro- or microfossils, specific compounds, etc.). This process has other applications outside of geochronology as well.
+<sup>14</sup>C dating is a preparation process that aims to separate organic carbon in terms of thermochemical stability through the process of pyrolysis. The process results in multiple <sup>14</sup>C dates for each sample, what is know is an age spectrum. This process is useful in geochronology where geologists are interested in dating organic matter in sediments, rocks, or dissolved in bodies of water. Such interest in dating organic matter usually evolves where there are no other easily identifiable targets for radiocarbon dating (macro- or microfossils, specific compounds, etc.). This process has other applications outside of geochronology as well.
 
 ## Diversity and Equity
 
