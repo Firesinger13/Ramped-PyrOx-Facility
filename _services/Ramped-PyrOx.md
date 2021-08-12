@@ -18,6 +18,8 @@ This method uses increasing temperature to thermally break down organic carbon. 
 
 This method is identical to the 5 split run except we collect a different number of splits. We have performed 3 split runs, we have processed 9 split runs. The amount of splits can depend on the scientific question and available funding. However, 5 split runs are the most usual and typically produce the best spectrum of ages.
 
-## Subt et al., 2017 method
+## Subt et al., 2017 Composite and Isotope Dilution techniques
 
-This is a method employed on highly detrital systems. When there is not enough autochthonous organic carbon present, even a Ramped PyrOx 5 split run may not produce a representative date of the youngest material. The first (youngest) split contains low proportions of contemporaneously deposited material, too low to fully separate from the detrital carbon component. 
+These methods are employed on highly detrital systems. When there is not enough autochthonous organic carbon present, even a Ramped PyrOx 5 split run may not produce a representative date of the youngest material. The first (youngest) split contains low proportions of contemporaneously deposited material, too low to fully separate from the detrital carbon component. 
+
+To generate enough autochthonous CO<sub>2</sub> from a sample for a <sup>14</sup>C measurement, we apply multiple identical Ramped PyrOx analyses and combine ultra-small low-temperature aliquots of CO<sub>2</sub> of the same sample (Composite technique). In the other technique, we combine ultra-small low-temperature CO<sub>2</sub> aliquots with a surrogate of known age and quantity (Isotope Dilution technique).
