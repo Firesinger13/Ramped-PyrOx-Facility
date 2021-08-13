@@ -7,7 +7,7 @@ weight: 3
 
 Shape runs use a small amount of sample to produce a thermogram, which can be thought of as a sort of carbon fingerprint.
 
-![Shape Run](/Ramped-PyrOx-Facility/images/Shape_run.png)
+![Shape Run](/Ramped-PyrOx-Facility/images/Shape_runs.jpg)
 
 ## Benefits of Shape Runs
 
