@@ -6,7 +6,7 @@ image: "images/team/"
 jobtitle: "PhD Student"
 linkedinurl: ""
 promoted: true
-weight: 2
+weight: 4
 layout: team
 ---
 

@@ -5,7 +5,7 @@ draft: false
 image: 'images/team/'
 jobtitle: 'Masters Student'
 promoted: true
-weight: 2
+weight: 3
 layout: team
 ---
 
