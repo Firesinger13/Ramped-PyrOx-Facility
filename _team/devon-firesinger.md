@@ -10,4 +10,16 @@ weight: 2
 layout: team
 ---
 
-Devon is a good scientist
+# Devon Firesinger
+
+![](/Ramped-PyrOx-Facility/images/Devon_shark.jpg)
+
+## Laboratory Scientist
+
+Devon was born and raised in Philadelphia, Pennsylvania. He previously attended the University of South Florida, where he analyzed sediment cores utilizing a Baysian accumulation model to improve <sup>14</sup>C age models and chronologies. After graduating Devon worked at Mote Marine Research Laboratory, helping with the continuous monitoring of Sarasota Bay/Northport water quality, as well as various Red Tide research projects. Currently, Devon manages the Rosenheim Laboratory. He assists students or visiting scientists with field preparation, sample processing and how to operate the Dirt Burner. Devon loves to play soccer, golf, scuba dive, and the Philadelphia Eagles.
+
+# Education
+
+M.S. in Marine Science, University of South Florida, 2017
+
+B.S. in Marine Science and Chemistry, The University of Tampa, 2013
