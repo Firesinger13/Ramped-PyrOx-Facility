@@ -14,7 +14,7 @@ What is new in the lab!?
 ## Devon Firesinger travels to Woods Hole to test his hypothesis 'Quantity Trumps Quality'
 
 <video muted autoplay controls>
-    <source src="{{Ramped-PyrOx-Facility./Ramped-PyrOx-Facility/images/Bacon_animation.mp4}}/Bacon_animation.mp4" type="video/mp4">
+    <source src="{{/Ramped-PyrOx-Facility/images/Bacon_animation.mp4}}/Bacon_animation.mp4" type="video/mp4">
 </video>
 
 ## ![Lab News](/Ramped-PyrOx-Facility/images/Bacon_animation.mp4)
