@@ -13,6 +13,10 @@ What is new in the lab!?
 
 ## Devon Firesinger travels to Woods Hole to test his hypothesis 'Quantity Trumps Quality'
 
+<video muted autoplay controls>
+    <source src="{{ /Ramped-PyrOx-Facility/images/ }}/Bacon_animation.mp4" type="video/mp4">
+</video>
+
 ![Lab News](/Ramped-PyrOx-Facility/images/Bacon_animation.mp4)
 
 The application of the Bayesian statistical accumulation model and Gas-Ion Source in tandem guided real-time 14C measurements by identifying each subsequent interval to quantify. Non-sequential dating iteratively improved uncertainty but with diminishing return on age constraint, providing the operator with knowledge on when to conclude analysis.
