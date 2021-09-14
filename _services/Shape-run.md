@@ -5,12 +5,10 @@ featured: true
 weight: 3
 ---
 
-Shape runs use a small amount of sample to produce a thermogram, which can be thought of as a sort of carbon fingerprint.
+Shape runs use a small amount of sample to produce a thermogram. These data can be useful for modeling where you would like to set you temperature intervals for <sup>14</sup>C and other isotope analysis.
 
 ![Shape Run](/Ramped-PyrOx-Facility/images/Shape_runs.jpg)
 
-## Benefits of Shape Runs
+## When to conduct Shape Runs
 
-Shape runs are typically employed to determine the carbon content of samples following acid treatment. This allows the scientist to calculate %TOC. With this knowledge, a Ramped PyrOx 5 split run is initiated and the ideal amount of CO<sub>2</sub> gas is collected for Radiocarbon determination without wasting precious sample.
-
-With prior knowledge or sedimentological information from the study site, shape runs can be used to identify intervals to employ the Ramped PyrOx method, or decipher if it is needed at all.
+In samples where TOC has not been determined, and for samples with limited mass available.

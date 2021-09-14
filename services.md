@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that perfect your Age Model
+# Radiocarbon Preparation Services
 
-Incremental pyrolysis can be used to improve upon bulk chronology of organic material in sediments that contain components from a spectrum of ages.
+Ramped pyrolysis can be used to improve upon bulk chronology of organic material in sediments that contain components from a spectrum of ages.

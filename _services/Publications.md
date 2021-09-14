@@ -10,7 +10,9 @@ Lab members' names in bold
 
 # 2021
 
+**Venturelli, R.**, Vick-Majors, T., Collins, B., Gagnon, A., Kasic, K., Kurz, M., . . . **Rosenheim, B.** (2021). A FRAMEWORK FOR TRANSDISCIPLINARY RADIOCARBON RESEARCH: USE OF NATURAL-LEVEL AND ELEVATED-LEVEL 14C IN ANTARCTIC FIELD RESEARCH. Radiocarbon, 1-14. [doi:10.1017/RDC.2021.55](https://doi.org/10.1017/RDC.2021.55).
 
+Priscu, J., Kalin, J., Winans, J., Campbell, T., Siegfried, M., Skidmore, M., **Rosenheim, B.**, **Venturelli, R.**, . . . Elsworth, C. (2021). Scientific access into Mercer Subglacial Lake: Scientific objectives, drilling operations and initial observations. Annals of Glaciology, 1-13. [doi:10.1017/aog.2021.10](https://doi.org/10.1017/aog.2021.10).
 
 # 2020
 

@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive a free consultation.",
+    "title": "Plan",
+    "description": "Develop a Sampling Strategy.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Acidification of samples",
-    "description": "A member of our team can acidify your samples, or teach you how.",
+    "title": "Analysis",
+    "description": "Utilize Ramped Pyrolysis or traditional <sup>14</sup>C dating.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Blank Correction and Thermogram generation",
-    "description": "We blank correct your radiocarbon dates and plot a Thermogram for your sample.",
+    "title": "Interpretation",
+    "description": "Blank Correction and Data Visualization.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
