@@ -12,9 +12,9 @@ layout: team
 Rosenheim Laboratory Alumni have embarked on various journeys post graduation.
 
 
-## Ryan Venturelli
+# Ryan Venturelli
 
-# Education
+## Education
 
 PhD  2021 University of South Florida
 M.S. 2015 Indiana State University
@@ -22,14 +22,14 @@ B.S. 2013 Indiana University Northwest
 
 Current: Postdoctoral Fellow, School of Science and Engineering, Tulane University 
 
-# Research Interests
+## Research Interests
 I am an isotope geochemist who seeks to understand the co-evolution of interlinked cryospheric, geologic, biologic, and oceanographic systems. My research centers on the the application of geochemical tools to extend our record of Antarctic Ice Sheet change into the recent geologic past using presently ice covered archives.
 
 I am currently (beginning February, 2021) a postdoctoral fellow at Tulane University working to understand the recent history of the Thwaites-Pine Island glacier system as part of the International Thwaites Glacier Collaboration. I recently completed my Ph.D. at the University of South Florida (January, 2021) where I worked to reconstruct Holocene grounding line history in the southern Ross Sea Embayment as part of the Subglacial Antarctic Lakes Scientific Access (SALSA) Project.
 
-## Cristina Subt
+# Cristina Subt
 
-# Education
+## Education
 
 PhD  2017 University of South Florida
 M.S. 2013 Texas A&M University
@@ -37,77 +37,77 @@ B.S. 20XX
 
 Current: Professor, 
 
-# Research Interests
+## Research Interests
 
 
-## Caitlin Reynolds
+# Caitlin Reynolds
 
-# Education
+## Education
 
 M.S. 2018? University of South Florida
 B.A. 2008 The University of Akron
 
 Current: Geologist, U.S. Geological Survey
 
-# Research Interests
+## Research Interests
 
 
-## Devon Firesinger
+# Devon Firesinger
 
-# Education
+## Education
 
 M.S. 2017 University of South Florida
 B.S. 2013 The University of Tampa
 
 Current: Laboratory Scientist, College of Marine Science, University of South Florida
 
-# Research Interests
+## Research Interests
 
 
-## Matthew Pendergraft
+# Matthew Pendergraft
 
-# Education
+## Education
 
 M.S. 20XX Tulane University
 B.S. 20XX 
 
 Current: Graduate Student Researcher, Scripps Institution of Oceanography, University of California San Diego
 
-# Research Interests
+## Research Interests
 
 
-## Alvaro Fernandez
+# Alvaro Fernandez
 
-# Education
+## Education
 
 PhD  20XX Tulane University
 B.S. 20XX 
 
 Current: Postdoctoral Fellow, ETH Zurich
 
-# Research Interests
+## Research Interests
 
 
-## Kimberly Roe
+# Kimberly Roe
 
-# Education
+## Education
 
 M.S. 20XX Tulane University
 B.A.
 
 Current: 
 
-# Research Interests
+## Research Interests
 
 
-## Elizabeth Williams **First Rosenheim Lab Graduate!**
+# Elizabeth Williams **First Rosenheim Lab Graduate!**
 
-# Education
+## Education
 
 PhD  20XX Tulane University
 B.S. 20XX 
 
 Current: Postdoctoral Fellow, ETH Zurich
 
-# Research Interests
+## Research Interests
 
