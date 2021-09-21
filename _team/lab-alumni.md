@@ -18,7 +18,7 @@ Rosenheim Laboratory Alumni have embarked on various journeys post graduation.
 
 PhD  2021 University of South Florida\
 M.S. 2015 Indiana State University\
-B.S. 2013 Indiana University Northwest\
+B.S. 2013 Indiana University Northwest
 
 Current: Postdoctoral Fellow, School of Science and Engineering, Tulane University 
 
@@ -33,7 +33,7 @@ I am currently (beginning February, 2021) a postdoctoral fellow at Tulane Univer
 
 PhD  2017 University of South Florida\
 M.S. 2013 Texas A&M University\
-B.S. 20XX\
+B.S. 20XX
 
 Current: Professor, 
 
@@ -45,7 +45,7 @@ Current: Professor,
 ## Education
 
 M.S. 2018? University of South Florida\
-B.A. 2008 The University of Akron\
+B.A. 2008 The University of Akron
 
 Current: Geologist, U.S. Geological Survey
 
@@ -57,7 +57,7 @@ Current: Geologist, U.S. Geological Survey
 ## Education
 
 M.S. 2017 University of South Florida\
-B.S. 2013 The University of Tampa\
+B.S. 2013 The University of Tampa
 
 Current: Laboratory Scientist, College of Marine Science, University of South Florida
 
@@ -69,7 +69,7 @@ Current: Laboratory Scientist, College of Marine Science, University of South Fl
 ## Education
 
 M.S. 20XX Tulane University\
-B.S. 20XX \
+B.S. 20XX 
 
 Current: Graduate Student Researcher, Scripps Institution of Oceanography, University of California San Diego
 
@@ -81,7 +81,7 @@ Current: Graduate Student Researcher, Scripps Institution of Oceanography, Unive
 ## Education
 
 PhD  20XX Tulane University\
-B.S. 20XX \
+B.S. 20XX 
 
 Current: Postdoctoral Fellow, ETH Zurich
 
@@ -93,7 +93,7 @@ Current: Postdoctoral Fellow, ETH Zurich
 ## Education
 
 M.S. 20XX Tulane University\
-B.A.\
+B.A.
 
 Current: 
 
@@ -105,7 +105,7 @@ Current:
 ## Education
 
 PhD  20XX Tulane University\
-B.S. 20XX \
+B.S. 20XX
 
 Current: Postdoctoral Fellow, ETH Zurich
 

@@ -5,6 +5,14 @@ layout: page
 bodyClass: page-about
 ---
 
+## Perspective Students
+
+Students in the Rosenheim lab can expect their graduate student career to be divided into three categories, lab work, field work, and data modeling. Previous students have traveled around the world (red circles) to collect samples, learn new analytical techniques, and present their research at scientific conferences. 
+
+![](/Ramped-PyrOx-Facility/images/rosenheim_travel_map.jpg)
+
+Please contact Dr. Rosenheim or [visit](https://www.usf.edu/marine-science/education/prospective-students/index.aspx) USF College of Marine Science for more information regarding the application process.
+
 ## Ramped pyrolysis-oxidation (published alternatively as ramped pyrolysis, Ramped PyrOx, or RPO)
 <sup>14</sup>C dating is a preparation process that aims to separate organic carbon in terms of thermochemical stability through the process of pyrolysis. The process results in multiple <sup>14</sup>C dates for each sample, what is know is an age spectrum. This process is useful in geochronology where geologists are interested in dating organic matter in sediments, rocks, or dissolved in bodies of water. Such interest in dating organic matter usually evolves where there are no other easily identifiable targets for radiocarbon dating (macro- or microfossils, specific compounds, etc.). This process has other applications outside of geochronology as well.
 
