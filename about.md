@@ -8,9 +8,7 @@ bodyClass: page-about
 ## Perspective Students
 
 Students in the Rosenheim lab can expect their graduate student career to be divided into three categories, lab work, field work, and data modeling. Previous students have traveled around the world (red circles) to collect samples, learn new analytical techniques, and present their research at scientific conferences. 
-
 ![](/Ramped-PyrOx-Facility/images/rosenheim_travel_map.jpg)
-
 Please contact Dr. Rosenheim or [visit](https://www.usf.edu/marine-science/education/prospective-students/index.aspx) USF College of Marine Science for more information regarding the application process.
 
 ## Ramped pyrolysis-oxidation (published alternatively as ramped pyrolysis, Ramped PyrOx, or RPO)
@@ -22,6 +20,7 @@ The RPO facility at USF-CMS prides itself in an inclusive atmosphere. We welcome
 
 ## Facilities Overview
 
+[Rosenheim lab/Ramped PyrOx Facility virtual tour](https://my.matterport.com/show/?m=j1SyhobSNEj)
 The Ramped Pyrolysis-Oxidation (RPO) <sup>14</sup>C dating facility at the University of South Florida College of Marine science is available for use by visiting scholars. The facility houses materials and apparatuses for pretreatment of samples (freeze-driers, acid treatment manifolds, scales, and muffle furnaces) as well as ancillary analysis (elemental analysis, stable isotope analysis). The RPO system itself consists of a flow system (mass flow controllers, infrared gas analyzer), a furnace system (two tube furnaces with independent temperature controllers, quartz reactor, and quartz sample inserts), and a vacuum separations system (hybrid turbomolecular pump, capacitive diaphragm manometer), controlled partially by LabVIEW graphical control system. Visiting scholars can generate purified CO<sub>2</sub> from different temperature intervals of their samples. Sealed in vacuo in borosilicate glass tubes, these CO<sub>2</sub> samples can be submitted to radiocarbon measurement facilities. 
 
 ## Required Time for Visiting Scholars
