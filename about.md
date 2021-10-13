@@ -28,7 +28,7 @@ The Ramped Pyrolysis-Oxidation (RPO) <sup>14</sup>C dating facility at the Unive
 
 It takes approximately one week to be trained to a point of semi-autonomy on the RPO system. Training can be partially accomplished with samples and blanks that will ultimately comprise the scholar’s research. Once trained, scholars can base desired time of residence on the capability to run two samples per day. Scholars are also required to prepare one blank determination sample for each 10 unknown CO<sub>2</sub> samples that they generate, and to share those data with the laboratory once analyzed for <sup>14</sup>C content. This ensures the best up-to-date understanding of blank corrections necessary to interpret data from this system. Additional time is required if the scholar plans to perform all sample pretreatment at USF-CMS, including removal of carbon-bearing minerals from the sample. Notably, we cannot analyze acid-fumigated samples from scholars who have performed sample pretreatment at their home institution as those samples destroy our oxidation catalysts. Acid rinsing is necessary, and we can share our protocol with interested parties. 
 
-<a href="/Ramped-PyrOx-Facility/images/Lab Member Expectations - Visiting Scientist.pdf" class="image fit"><img src="Ramped-PyrOx-Facility/images/Lab Member Expectations - Visiting Scientist.pdf" alt=""></a>
+[Lab Member Expectations - Visiting Scientist](https://firesinger13.github.io/Ramped-PyrOx-Facility/images/Lab Member Expectations - Visiting Scientist.pdf)
 
 ## Laboratory Costs and Expenses
 
