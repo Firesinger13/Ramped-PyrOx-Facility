@@ -13,11 +13,10 @@ Is Ramped PyrOx the right decision for your sample?
 ## Ramped PyrOx X split run
 
 This method uses increasing temperature to thermally break down organic carbon. The incremental pyrolysis is slow enough to allow for the separation of more thermochemically reactive constituents from more diagenetically stable ones. The typical Ramped PyrOx 5 Split run is used to separate a sample into 5 aliquots of CO<sub>2</sub>. We have performed 3 split runs, we have processed 9 split runs. The amount of splits can depend on the scientific question and available funding. The CO<sub>2</sub> ampules are submitted to an AMS laboratory, where they are graphitized and analysed for <sup>14</sup>C. We take the raw data and apply a blank correction based on standards with known <sup>14</sup>C content.
-
 <video autoplay muted controls width="1200" height="800">
     <source src="/Ramped-PyrOx-Facility/images/King RP Animation5.mp4" type="video/mp4">
 </video>
-Ramped PurOx 5 split Animation credit: T.M. King
+Ramped PyrOx 5 split Animation credit: T.M. King
 
 ## Subt et al., 2017 Composite and Isotope Dilution techniques
 

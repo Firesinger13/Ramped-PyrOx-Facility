@@ -10,6 +10,8 @@ Lab members' names in bold
 
 # 2021
 
+Suzuki, k., Yamamoto, M., **Rosenheim, B. E.**, Omori, T., and Polyak, L. (2021). New radiocarbon estimation method for carbonate-poor sediments: A case study of ramped pyrolysis <sup>14</sup>C dating of postglacial deposits from the Alaskan margin, Arctic Ocean. Quaternary Geochronology, 66, 101215, ISSN 1871-1014. [https://doi.org/10.1016/j.quageo.2021.101215](https://doi.org/10.1016/j.quageo.2021.101215).
+
 **Venturelli, R. A.**, Vick-Majors, T., Collins, B., Gagnon, A., Kasic, K., Kurz, M., . . . **Rosenheim, B. E.** (2021). A Framework for Transdisciplinary Radiocarbon Research: Use of Natural-level and Elevated-level <sup>14</sup>C in Antarctic Field Research. Radiocarbon, 1-14. [doi:10.1017/RDC.2021.55](https://doi.org/10.1017/RDC.2021.55).
 
 Priscu, J., Kalin, J., Winans, J., Campbell, T., Siegfried, M., Skidmore, M., **Rosenheim, B. E.**, **Venturelli, R. A.**, . . . Elsworth, C. (2021). Scientific access into Mercer Subglacial Lake: Scientific objectives, drilling operations and initial observations. Annals of Glaciology, 1-13. [doi:10.1017/aog.2021.10](https://doi.org/10.1017/aog.2021.10).
