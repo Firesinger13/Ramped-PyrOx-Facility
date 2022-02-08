@@ -32,8 +32,7 @@ It takes approximately one week to be trained to a point of semi-autonomy on the
 
 ## Laboratory Costs and Expenses
 
-Costs for RPO can be divided into two categories: Consumables and analysis. Typically, visiting scholars separate a single sample into five temperature intervals for unique <sup>14</sup>C measurements. Radiocarbon analysis charges can vary from laboratory to laboratory. The samples we prepare have been handled well by the National Ocean Sciences Accelerator Mass Spectrometer as they have had the most success in graphitizing our samples. Their [prices](https://www2.whoi.edu/site/nosams/client-services/fees/) for <sup>14</sup>C determination or those from an AMS laboratory of your choice, must be budgeted into your proposal. Dr. Rosenheim can discuss options with you. Prior to visiting USF-CMS, students can opt to treat their samples for removal of minerals bearing carbon. RPO dating targets organic matter. Often organic carbon and mineral carbon (e.g. CaCO<sub>3</sub>) are present in the same sediment horizons, but are not necessarily concomitant in formation. Removal of minerals such as CaCO<sub>3</sub> is necessary to result in unambiguous organic carbon dates if the carbon-bearing minerals are not coeval with the age of deposition. It is important that this is done by means other than acid fumigation! Acid fumigation samples have disrupted the process of our catalysts for conversion of RPO pyrolsates to CO<sub>2</sub>. We can share our Standard Operating Procedure if you choose to perform demineralization in your own laboratory. Briefly, we weight each sample and calculate the amount of 10% HCl required to neutralize the mass of sample assuming it was 100% CaCO<sub>3</sub>. This ensures acid in excess. Samples are either rinsed on a filter or centrifuged until a neutral pH is approached, and ultimately stored in a low-temperature (50⁰C) until their weight ceases to decrease from loss of water (generally 24 hours, 
-but variable depending on sediment type). Samples contain no added toxic ingredients after this procedure and can likely be safely transported if they had no hazardous ingredients prior to this treatment.
+Costs for RPO can be divided into two categories: Consumables and analysis. Typically, visiting scholars separate a single sample into five temperature intervals for unique <sup>14</sup>C measurements. Radiocarbon analysis charges can vary from laboratory to laboratory. The samples we prepare have been handled well by the National Ocean Sciences Accelerator Mass Spectrometer as they have had the most success in graphitizing our samples. Their [prices](https://www2.whoi.edu/site/nosams/client-services/fees/) for <sup>14</sup>C determination or those from an AMS laboratory of your choice, must be budgeted into your proposal. Dr. Rosenheim can discuss options with you. Prior to visiting USF-CMS, students can opt to treat their samples for removal of minerals bearing carbon. RPO dating targets organic matter. Often organic carbon and mineral carbon (e.g. CaCO<sub>3</sub>) are present in the same sediment horizons, but are not necessarily concomitant in formation. Removal of minerals such as CaCO<sub>3</sub> is necessary to result in unambiguous organic carbon dates if the carbon-bearing minerals are not coeval with the age of deposition. It is important that this is done by means other than acid fumigation! Acid fumigation samples have disrupted the process of our catalysts for conversion of RPO pyrolsates to CO<sub>2</sub>. We can share our Standard Operating Procedure if you choose to perform demineralization in your own laboratory. Briefly, we weight each sample and calculate the amount of 10% HCl required to neutralize the mass of sample assuming it was 100% CaCO<sub>3</sub>. This ensures acid in excess. Samples are either rinsed on a filter or centrifuged until a neutral pH is approached, and ultimately stored in a low-temperature oven (50⁰C) until their weight ceases to decrease from loss of water (generally 24 hours, but variable depending on sediment type). Samples contain no added toxic ingredients after this procedure and can likely be safely transported if they had no hazardous ingredients prior to this treatment.
 
 ## Laboratory Staff
 
@@ -42,12 +41,18 @@ Visiting scholars will be tutored primarily by the laboratory technician. Genera
 ## Data Processing
 
 Management and processing of the data involves the following steps:
-- Submission of samples to qualified radiocarbon analysis laboratory (t0)
-- Reporting of <sup>14</sup>C results to submitter of samples. (t0 + 14-28 days, AMS laboratory-dependent)
-- Blank correction of <sup>14</sup>C results, with help from USF-CMS RPO staff (+1 day)
-- Data visualization – PI Brad Rosenheim is available to discuss and help with data visualization of 
+
 RPO results after blank correction (+0.5 days).
 
 ## Lead Time
 
 Generally, wait times to use the RPO facility are on the magnitude of one month. Between June and October, wait times can increase due to preparation of samples during the summer and for the AGU Fall Meeting, and, likewise, there is more internal student pressure on the facility during the summer months (May-August). To propose work over the summer, it is best to contact Dr. Rosenheim early in the year to plan for a visit.
+
+## Laboratory Standard Operating Procedures
+
+Students and Visiting Scientists are encouraged to read Ramped PyrOx Facility Standard Operating Procedure (SOP) in order to maximize their time in the Lab. 
+
+- [Acid Treatment SOP](https://firesinger13.github.io/Ramped-PyrOx-Facility/images/AcidTreatment_SOP.ipynb)
+- [Sediment Filtering and Acid Treatment SOP](https://firesinger13.github.io/Ramped-PyrOx-Facility/images/Sediment Filtering and Acid Treatment.pdf)
+- [Bulk sample <sup>14</sup>C Preparation SOP](https://firesinger13.github.io/Ramped-PyrOx-Facility/images/SOP Bulk Samples.pdf)
+- [<sup>14</sup>C Tube Preparation SOP](https://firesinger13.github.io/Ramped-PyrOx-Facility/images/SOP_Tube_Preparation_20200623.pdf)
