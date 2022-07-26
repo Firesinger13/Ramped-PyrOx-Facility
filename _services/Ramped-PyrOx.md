@@ -8,7 +8,7 @@ layout: service
 
 Is Ramped PyrOx the right decision for your sample?
 
-![Ramped PyrOx](/Ramped-PyrOx-Facility/images/dirt_burner.jpg)
+![Ramped PyrOx](/Ramped-PyrOx-Facility/images/illustrations/DB_Diagram_King.png)
 
 ## Ramped PyrOx X split run
 
