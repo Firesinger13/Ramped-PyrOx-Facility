@@ -7,7 +7,6 @@ layout: service
 ---
 
 Is Ramped PyrOx the right decision for your sample?
-
 <video autoplay muted controls width="1200" height="800">
     <source src="/Ramped-PyrOx-Facility/images/Dirt_Burner_promo_v2.mp4" type="video/mp4">
 </video>
