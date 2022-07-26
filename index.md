@@ -2,8 +2,7 @@
 title: Ramped PyrOx Facility
 layout: home
 description: The Ramped PyrOx Facility at the University of South Florida
-intro_image: "<source src="/Ramped-PyrOx-Facility/images/Bacon_animation.mp4" type="video/mp4">
-</video>"
+intro_image: "images/illustrations/DB_Diagram_King.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 show_call_box: true

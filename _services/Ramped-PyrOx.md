@@ -8,7 +8,9 @@ layout: service
 
 Is Ramped PyrOx the right decision for your sample?
 
-![Ramped PyrOx](/Ramped-PyrOx-Facility/images/illustrations/DB_Diagram_King.png)
+![Ramped PyrOx](<video autoplay muted controls width="1200" height="800">
+    <source src="/Ramped-PyrOx-Facility/images/Bacon_animation.mp4" type="video/mp4">
+</video>)
 
 ## Ramped PyrOx X split run
 
